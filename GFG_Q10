@@ -1,0 +1,3 @@
+#Handling missing keys in Python dictionaries
+
+mydict = {'a':1}
